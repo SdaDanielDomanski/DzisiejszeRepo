@@ -1,2 +1,3 @@
 jedna linia1
 jedna linia2
+trzecia linia
